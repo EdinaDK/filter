@@ -1,0 +1,41 @@
+.form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Century Gothic";
+    text-align: center;
+}
+.button2{
+    margin-top: 10px;
+    width: 120px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 13px;
+}
+
+.filters {
+    margin-left: 15px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.input {
+    width: 250px;
+    height: 25px;
+    margin: 10px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 13px;
+    padding: 4px;
+}
+
+.button {
+    margin-top: 10px;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 13px;
+}
